@@ -6,4 +6,7 @@ Let's create our menu for the new restaurants
 4. Sandwich
 5. Pinacolada
 
+6. Chhole Bhature
+7. Lassi
+
 Thankyou Come again!!
